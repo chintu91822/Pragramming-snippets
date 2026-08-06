@@ -19,9 +19,9 @@
 
 ## Programs
 
-- [Hello World](Python/hello_world.py)
-- [Factorial](Python/factorial.py)
-- [Palindrome](Python/palindrome.py)
+- factorial(Python/factorial.py)
+- Prime(Python/prime.py)
+- Fibonacci(Python/Fibonacci.py)
 
 Example:
 
