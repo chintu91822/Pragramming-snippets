@@ -18,7 +18,7 @@
 # 🐍 Python
 
 ## Programs
-
+- https://github.com/chintu91822/Pragramming-snippets/blob/5a142bad1df37d3491c74a938e460722c5a1c58c/Python/factorial.py
 - factorial(Python/factorial.py)
 - Prime(Python/prime.py)
 - Fibonacci(Python/Fibonacci.py)
